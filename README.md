@@ -28,8 +28,7 @@ code {
 
 <h1>Quash: A Simple UNIX-Like Shell</h1>
 
-<p><strong>Author:</strong> Your Name<br>
-<strong>Teammate (if any):</strong> Teammate’s Name</p>
+<p><strong>Author:</strong>Aaryan Panthi<br>
 
 <h2>Overview</h2>
 
